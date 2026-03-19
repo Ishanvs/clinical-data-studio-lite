@@ -220,9 +220,10 @@ clinical-data-studio-lite/
 ---
 
 ## 🛠 Tech Stack
-Python
-Streamlit
-Pandas
+-Python
+-Streamlit
+-Pandas
+
 ---
 
 ## 🚀 How to Run
