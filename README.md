@@ -116,6 +116,9 @@ This reframes the product from a workflow tool → strategic platform investment
 ### Main Product Experience
 ![UI Screenshot](assets/ui.png)
 
+### Dashboard Overview (Real-time metrics & trial health)
+![UI Screenshot](assets/Dashboard.png)
+
 ---
 
 ## 🏗️ System Architecture
