@@ -220,8 +220,11 @@ clinical-data-studio-lite/
 ---
 
 ## 🛠 Tech Stack
+
 -Python
+
 -Streamlit
+
 -Pandas
 
 ---
@@ -264,23 +267,33 @@ Governed data platform + certified partner ecosystem + responsible AI
 
 A sample dataset is included in:
 data/sample_clinical_data.csv
+
 ---
 
 ## 🧠 Product Framing
 
 This prototype represents the early foundation of a clinical data platform:
+
   Ingestion and review
+  
   Quality monitoring
+  
   Issue identification
+  
   Future AI-assisted workflows
 
 ---
 
 ## 🔮 Next Enhancements
+
 →Anomaly detection
+
 → Patient profile view
+
 → Validation rules
+
 → Audit trail
+
 → Explainable AI layer
 
   ---
@@ -288,9 +301,13 @@ This prototype represents the early foundation of a clinical data platform:
 ## 🏗 Architecture (Conceptual)
 
 Clinical Data Sources
+
 → Ingestion Layer
+
 → Standardization Layer
+
 → Validation Layer
+
 → Review UI
 
 ---
