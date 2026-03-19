@@ -35,6 +35,16 @@ A unified interface that enables:
 
 ---
 
+## 🖥️ Product UI
+![UI Screenshot](assets/ui.png)
+
+---
+
+## 🏗 System Architecture
+![Architecture Diagram](assets/architecture.png)
+
+---
+
 ## 📁 Repo Structure
 ```text
 clinical-data-studio-lite/
