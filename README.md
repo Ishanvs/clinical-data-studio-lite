@@ -1,104 +1,102 @@
-Clinical Data Studio Lite
+# Clinical Data Studio Lite
 
 AI-assisted clinical data review prototype inspired by Medidata Clinical Data Studio.
 
-🧠 Overview
+---
 
+## 🧠 Overview
 Clinical Data Studio Lite is a lightweight product prototype that demonstrates how fragmented clinical datasets can be uploaded, reviewed, and monitored through a unified interface.
 
 This project showcases:
+- Product thinking for a clinical data platform
+- Data quality monitoring workflows
+- UX for data ingestion and review
+- Foundation for AI-assisted validation
 
-Product thinking for a clinical data platform
+---
 
-Data quality monitoring workflows
-
-UX for data ingestion and review
-
-Foundation for AI-assisted validation
-
-🚨 Problem
-
+## 🚨 Problem
 Clinical trial data is often fragmented across sites, vendors, and systems.
 
 This leads to:
+- Manual reconciliation
+- Delayed insights
+- Data quality risks
+- Lack of traceability
 
-Manual reconciliation
+---
 
-Delayed insights
-
-Data quality risks
-
-Lack of traceability
-
-✅ Solution
-
+## ✅ Solution
 A unified interface that enables:
+- Dataset ingestion and preview
+- Automated quality checks
+- Flagging of problematic records
+- Scalable architecture for future AI workflows
 
-Dataset ingestion and preview
+---
 
-Automated quality checks
-
-Flagging of problematic records
-
-Scalable architecture for future AI workflows
-
-📁 Repo Structure
-
+## 📁 Repo Structure
+```text
 clinical-data-studio-lite/
 ├── README.md
 ├── requirements.txt
 ├── src/
-│ └── ui.py
+│   └── ui.py
 ├── data/
-│ └── sample_clinical_data.csv
+│   └── sample_clinical_data.csv
 ├── docs/
-│ └── product-requirements.md
+│   └── product-requirements.md
 └── architecture/
-└── architecture-notes.md
+    └── architecture-notes.md
+```
+---
 
-🛠 Tech Stack
-
+## 🛠 Tech Stack
 Python
-
 Streamlit
-
 Pandas
+---
 
-🚀 How to Run
+## 🚀 How to Run
 
+```bash
 pip install -r requirements.txt
 streamlit run src/ui.py
+```
+---
+## 🚀 How to Run
 
-📊 Sample Data
+```pip install -r requirements.txt
+streamlit run src/ui.py
+```
+---
+
+## 📊 Sample Data
 
 A sample dataset is included in:
 data/sample_clinical_data.csv
+---
 
-🧠 Product Framing
+## 🧠 Product Framing
 
 This prototype represents the early foundation of a clinical data platform:
+  Ingestion and review
+  Quality monitoring
+  Issue identification
+  Future AI-assisted workflows
 
-Ingestion and review
+---
 
-Quality monitoring
+## 🔮 Next Enhancements
+→Anomaly detection
+→ Patient profile view
+→ Validation rules
+→ Audit trail
+→ Explainable AI layer
 
-Issue identification
+  ---
 
-Future AI-assisted workflows
-
-🔮 Next Enhancements
-
-Anomaly detection
-
-Patient profile view
-
-Validation rules
-
-Audit trail
-
-Explainable AI layer
-
-🏗 Architecture (Conceptual)
+## 🏗 Architecture (Conceptual)
 
 Clinical Data Sources
 → Ingestion Layer
@@ -106,7 +104,12 @@ Clinical Data Sources
 → Validation Layer
 → Review UI
 
-👤 Author
+---
+
+
+## 👤 Author
 
 Ishan
+---
 
+---
