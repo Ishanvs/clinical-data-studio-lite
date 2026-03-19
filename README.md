@@ -6,6 +6,14 @@ AI-assisted clinical data review prototype inspired by Medidata Clinical Data St
 
 ---
 
+## ⚡ At a Glance
+
+- **What:** AI-native clinical data platform prototype  
+- **Who:** Clinical data managers, CROs, compliance teams  
+- **Why:** Reduce reconciliation effort, improve auditability, enable AI-ready workflows  
+
+---
+
 ## 🧠 Overview
 Clinical Data Studio Lite demonstrates how fragmented clinical datasets can be unified into a governed, real-time system for data review, validation, and AI-assisted workflows.
 
@@ -91,6 +99,30 @@ A unified, governed platform that enables:
 
 ---
 
+## 💼 Business Case
+
+From a business perspective, the platform addresses three critical levers:
+
+- **Revenue:** Faster data readiness → faster milestone billing  
+- **Cost:** Reduced manual reconciliation → lower cost-to-serve  
+- **Deals:** Strong auditability and AI governance → higher enterprise win rates  
+
+This reframes the product from a workflow tool → strategic platform investment.
+
+---
+
+## 🖥️ Product UI
+
+### Main Product Experience
+![UI Screenshot](assets/ui.png)
+
+---
+
+## 🏗️ System Architecture
+![Architecture Diagram](assets/architecture.png)
+
+---
+
 ## 🧪 MVP & Validation Strategy
 
 ### Hypotheses Tested
@@ -128,18 +160,6 @@ A unified, governed platform that enables:
 - Faster milestone billing → improved revenue realization
 - Reduced cost-to-serve through automation
 - Increased win-rate in regulated and enterprise deals
-
----
-
-## 🖥️ Product UI
-
-### Main Product Experience
-![UI Screenshot](assets/ui.png)
-
----
-
-## 🏗️ System Architecture
-![Architecture Diagram](assets/architecture.png)
 
 ---
 
