@@ -36,44 +36,15 @@ clinical-data-studio-lite/
 └── architecture/
     └── architecture-notes.md
 
-Tech stack
+## 🛠 Tech Stack
+- Python  
+- Streamlit  
+- Pandas  
 
-Python
+---
 
-Streamlit
+## 🚀 How to Run
 
-Pandas
-
-How to run
+```bash
 pip install -r requirements.txt
 streamlit run src/ui.py
-
-A sample dataset is included in data/sample_clinical_data.csv.
-
-Product framing
-
-This prototype represents the early foundation of a clinical data platform:
-
-ingestion and review
-
-quality monitoring
-
-issue identification
-
-future AI-assisted workflows
-
-Next enhancements
-
-anomaly detection
-
-patient profile view
-
-validation rules
-
-audit trail
-
-explainable AI layer
-
-Author
-
-Ishan
